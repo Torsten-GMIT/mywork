@@ -1,3 +1,6 @@
-# working along lecture week 03
-# author week 03
+# Author: Torsten Kindt
+# working along with lecture week 03
+# learning about aritmetic in python
+
+
 

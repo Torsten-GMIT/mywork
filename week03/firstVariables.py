@@ -1,6 +1,7 @@
+# Author: Torsten Kindt
 # working along with lecture week 03
 # learning about variable types
-# author: Torsten Kindt
+
 
 age = 32
 print (type(age))
