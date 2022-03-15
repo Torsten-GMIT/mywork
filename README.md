@@ -1,6 +1,6 @@
 
 GMIT Data Analytics course 2022
-Lecturer: Andrew Beaty
+Lecturer: Andrew Beatty
 
 Working along lectures and labs
 Author: Torsten Kindt
@@ -12,4 +12,9 @@ Week 01: Lecture 1.3
  
 Week 02: Lecture 2.2.1, lab 2.2
     - hello.py
+    - hello2.py
+    - multiply.py
+    - addOne.py
+
+    
 
