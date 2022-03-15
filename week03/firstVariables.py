@@ -1,5 +1,5 @@
 # Author: Torsten Kindt
-# working along with lecture week 03
+# working along with lecture 3.1
 # learning about variable types
 
 
@@ -24,12 +24,14 @@ print (type(age))
 age = {}
 print (type(age))
 
+
 ageOfPatient = {}
 age = 3
 print (type(ageOfPatient))
 print (type(age))
 
-#convert str to int and int to str
+
+# convert str to int and int to str
 
 print ("you are " + str(age))
 
