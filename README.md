@@ -29,8 +29,16 @@ Lecture 3.1., lab 3.1.x
     - lab3.1.5-randomFruit.py
     - lab3.1.5.1-randomFruit2.py
     - lab3.1.6-extra.py
-
+   
 Lecture 3.2., lab 3.2.x
     - funWithNumbersTut.py
+    - lab3.2.1-round.py
+    - lab3.2.2-absolute.py
+    - lab3.2.3-floor.py
+
+Lecture 3.2., lab 3.3.x
+    - lab3.3.1-len.py
+    - lab3.3.2-outputString.py
+    - lab3.3.3-normalise.py
 
 
