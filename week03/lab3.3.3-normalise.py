@@ -7,7 +7,6 @@
 origString = input("Enter a string: ")
 stringStripped = origString.strip()
 
-
 print("That string normalised is: {}\nWe reduced the input string from {} to {} characters.".format(stringStripped.lower(), len(origString), len(stringStripped)))
 
 # https://www.w3schools.com/python/ref_string_strip.asp
