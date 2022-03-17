@@ -51,4 +51,6 @@ Lecture 4.1., lab 4.1.x
     - lab4.1.3-gradeRounded.py
 
 Lecture 4.2., lab 4.2.x
-    - 
+    - whileLoops.py
+    - forLoops.py
+    
