@@ -41,4 +41,14 @@ Lecture 3.2., lab 3.3.x
     - lab3.3.2-outputString.py
     - lab3.3.3-normalise.py
 
+Week 04
+Lecture 4.1., lab 4.1.x
+    - testBoolean.py
+    - testAndOr.py
+    - if_elif_else-statements.py
+    - lab4.1.1-ifEven.py
+    - lab4.1.2-grade.py
+    - lab4.1.3-gradeRounded.py
 
+Lecture 4.2., lab 4.2.x
+    - 
