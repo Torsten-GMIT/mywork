@@ -1,6 +1,6 @@
 # Author: Torsten Kindt
 # working along with lecture 4.2
-# learning about loops
+# learning about while loops
 
 # while condition:
     # statement
