@@ -53,4 +53,8 @@ Lecture 4.1., lab 4.1.x
 Lecture 4.2., lab 4.2.x
     - whileLoops.py
     - forLoops.py
+    - lab4.2.1-evens.py
+    - lab4.2.2-guess1.py
+    - lab4.2.3-guess2.py
+    
     
